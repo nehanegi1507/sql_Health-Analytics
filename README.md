@@ -1,7 +1,7 @@
 # sql_Health-Analytics
 In this case study, I have tried to consider and answer the following business questions using SQL:
-Business Questions
-The business questions I wanted to address:
+
+# The business questions I wanted to address:
 1.	How many unique users exist in the logs dataset?
 2.	How many total measurements do we have per user on average?
 3.	What about the median number of measurements per user?

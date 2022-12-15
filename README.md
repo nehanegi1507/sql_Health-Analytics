@@ -7,9 +7,9 @@ In this case study, I have tried to consider and answer the following business q
 3.	What about the median number of measurements per user?
 4.	How many users have 3 or more measurements?
 5.	How many users have 1,000 or more measurements?
-6.	# Looking at the logs data - what is the number and percentage of the active user base who:
+## Looking at the logs data - what is the number and percentage of the active user base who:
 7.	Have logged blood glucose measurements?
 8.	Have at least 2 types of measurements?
 9.	Have all 3 measures - blood glucose, weight and blood pressure?
-10.	# For users that have blood pressure measurements:
+## For users that have blood pressure measurements:
 11.	What is the median systolic/diastolic blood pressure values?
